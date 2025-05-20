@@ -1,0 +1,23 @@
+{
+  "name": "trabalhoamb190525",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmlmarcelo/TrabalhoAmb190525.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmlmarcelo/TrabalhoAmb190525/issues"
+  },
+  "homepage": "https://github.com/mmlmarcelo/TrabalhoAmb190525#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
